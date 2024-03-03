@@ -1,0 +1,50 @@
+* {
+    font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+}
+
+header {
+    text-align: right;
+    background-color: lightgreen;
+    height: 40px;
+    position: fixed;
+    width: 100%;
+}
+
+a {
+    color: purple;
+    text-decoration: none;
+}
+
+main {
+    background-color: yellow;
+}
+
+.title {
+    color: green;
+    text-align: center;
+    padding-top: 50px;
+}
+
+img {
+    height: 200px;
+}
+
+
+
+.card {
+    display: inline-block;
+    width: 49%;
+    text-align: center;
+}
+
+.contact {
+    text-align: center;
+    color: white;
+    background-color: purple;
+}
+
+footer {
+    text-align: center;
+    background-color: lightgreen;
+    margin: 0;
+}
